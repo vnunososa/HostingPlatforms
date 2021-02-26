@@ -7,5 +7,8 @@ At that moment I got two types of data: Structured (ratings, characteristics, pr
 
 The first Jupyter Notebook contains the exploratory analysis and the clean up of variables, also non supervised modelling to figure out the profiles on the data. Finally we can find supervised modelling through Credit Scoring methodology to show a scorecard to classify the best 30% rooms according to ratings.
 
-The second Jupyter Notebook
+The second Jupyter Notebook contains the deep learning model to improve the classification problem performance through neural networks.
+The third Jupyter Notebook contains one more deep learning architecture based on LSTM neural network to classify into word clouds the best rated rooms/apartmets and try finding patterns into text.
+
+Finally you can find a PDF with executive report about this project to see a mix between technical processes and their business interpretation.
 
